@@ -8,8 +8,7 @@ Supported Node Versions for better performance.
 | ------- | ------------------ |
 | 18.12.x | :white_check_mark: |
 | 16.0.x  | :white_check_mark: |
-| < 16.0  | :x:                |
-| < 4.0   | :x:                |
+| < 12.0  | :x:                |
 
 ## Reporting a Vulnerability
 
